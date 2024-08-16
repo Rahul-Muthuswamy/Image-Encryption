@@ -11,38 +11,6 @@ Welcome to the **Image Encryption & Decryption** application! This project is a 
 - **💾 Save Image:** Save the encrypted image securely to your device.
 - **🚪 Exit Safely:** Close the application with a confirmation dialog.
 
-## 🛠️ Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the Repository:**
-
-   \`\`\`bash
-   git clone https://github.com/yourusername/Image-Encryption-Decryption.git
-   cd Image-Encryption-Decryption
-   \`\`\`
-
-2. **Install the Required Libraries:**
-
-   Ensure you have Python installed, then install the necessary packages:
-
-   \`\`\`bash
-   pip install -r requirements.txt
-   \`\`\`
-
-   \`requirements.txt\`:
-   \`\`\`
-   pillow
-   opencv-python
-   numpy
-   \`\`\`
-
-3. **Run the Application:**
-
-   \`\`\`bash
-   python main.py
-   \`\`\`
-
 ## 🚀 How It Works
 
 1. **Choose Image:** Click on the \`Choose Image\` button to select an image from your device.
