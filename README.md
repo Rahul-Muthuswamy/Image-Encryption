@@ -20,12 +20,6 @@ Welcome to the **Image Encryption & Decryption** application! This project is a 
 5. **Save Image:** Save your encrypted image by clicking \`Save Image\`.
 6. **Exit:** Safely close the application with the \`EXIT\` button.
 
-## 🖼️ GUI Preview
-
-Here's what the application looks like:
-
-![GUI Preview](https://via.placeholder.com/1000x700.png?text=Image+Encryption+Decryption+GUI)
-
 ## 📂 Project Structure
 
 \`\`\`
